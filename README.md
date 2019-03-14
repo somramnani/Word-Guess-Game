@@ -1,13 +1,13 @@
 # Word-Guess-Game
 
-##Tools/Languages Used
+## Tools/Languages Used
 - HTML/CSS
 - Bootstrap
 - JavaScript
 - JQuery
 
 
-##Features
+## Features
 - Uses key events to listen for the letters that players will type.
 
 - Wins: (# of times user guessed the word correctly).
