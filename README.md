@@ -1,5 +1,5 @@
 # Word-Guess-Game
-A game simmiliar to Hangman where the user has a certain amount of guesses to guess the word. 
+A game similar to Hangman where the user has a certain amount of guesses to guess the word. 
 
 ## Tools/Languages Used
 - HTML/CSS
